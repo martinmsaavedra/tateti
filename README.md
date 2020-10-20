@@ -8,6 +8,7 @@ With your PLD group develop a simple tic-tac-toe game using all the tools you've
 - The player can only insert numbers from 0 to 2. Any other char is not accepted and should ask for a new input.
 - You can only use getchar() to read user input.
 - The board must be displayed like this:
+
       * 0 1 2
       0 X| |O
       1  |X|O
